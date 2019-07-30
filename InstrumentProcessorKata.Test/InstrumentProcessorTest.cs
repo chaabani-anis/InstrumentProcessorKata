@@ -3,7 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace InstrumentProcessorKata.Test
 {
     [TestClass]
-    public class UnitTest1
+    public class InstrumentProcessorTest
     {
         [TestMethod]
         public void TestMethod1()
